@@ -8,7 +8,7 @@ We've created a few templates to make it easier to get started on GC Forms.
 [Preview] | [Download](https://github.com/cds-snc/forms-templates/blob/main/Feedback%20form%20%7C%20Formulaire%20de%20r%C3%A9troaction)
 
  ## Report a security vulnerability form 
-[Preview] | [Download](https://github.com/cds-snc/forms-templates/blob/main/Reporting%20form%20%7C%20Formulaire%20de%20signalement)
+[Preview] | [Download](https://github.com/cds-snc/forms-templates/blob/main/reporting-signalement.json)
 
 ---
 
@@ -22,4 +22,4 @@ Nous avons créé quelques modèles pour faciliter la publication dans Formulair
 [Prévisualiser] | [Télécharger](https://github.com/cds-snc/forms-templates/blob/main/Feedback%20form%20%7C%20Formulaire%20de%20r%C3%A9troaction)
 
 ## Formulaire de signalement de vulnérabilités de sécurité 
-[Prévisualiser] | [Télécharger](https://github.com/cds-snc/forms-templates/blob/main/Reporting%20form%20%7C%20Formulaire%20de%20signalement)
+[Prévisualiser] | [Télécharger](https://github.com/cds-snc/forms-templates/blob/main/reporting-signalement.json)
