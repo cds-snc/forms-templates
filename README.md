@@ -2,7 +2,7 @@
 We've created a few templates to make it easier to get started on GC Forms.
 
 ## Contact us form 
-[Preview] | [Download](https://github.com/cds-snc/forms-templates/blob/main/Contact%20us%20%7C%20Nous%20joindre)
+[Preview] | [Download](https://github.com/cds-snc/forms-templates/blob/main/contact.json)
 
 ## Accessibility feedback form 
 [Preview] | [Download](https://github.com/cds-snc/forms-templates/blob/main/feedback-retroaction.json)
@@ -16,7 +16,7 @@ We've created a few templates to make it easier to get started on GC Forms.
 Nous avons créé quelques modèles pour faciliter la publication dans Formulaires GC.
 
 ## Formulaire de contact 
-[Prévisualiser] | [Télécharger](https://github.com/cds-snc/forms-templates/blob/main/Contact%20us%20%7C%20Nous%20joindre)
+[Prévisualiser] | [Télécharger](https://github.com/cds-snc/forms-templates/blob/main/contact.json)
 
 ## Formulaire de rétroaction sur l'accessibilité 
 [Prévisualiser] | [Télécharger](https://github.com/cds-snc/forms-templates/blob/main/feedback-retroaction.json)
