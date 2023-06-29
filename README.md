@@ -1,5 +1,5 @@
-# Form templates for GC Forms
-We've created a few templates to make it easier to get started on GC Forms.
+# [Form templates for GC Forms](https://articles.alpha.canada.ca/forms-formulaires/templates/)
+We’ve created a few templates of common forms to help you get forms drafted and published faster in GC Forms.
 
 ## Contact us form 
 [Preview](https://forms-formulaires.alpha.canada.ca/en/id/cljhgi5gn00g8yq65sjzf5tsk) | [Download](https://github.com/cds-snc/forms-templates/blob/main/contact.json)
@@ -12,8 +12,8 @@ We've created a few templates to make it easier to get started on GC Forms.
 
 ---
 
-# Modèles de formulaires pour Formulaires GC
-Nous avons créé quelques modèles pour faciliter la publication dans Formulaires GC.
+# [Modèles de formulaires pour Formulaires GC](https://articles.alpha.canada.ca/forms-formulaires/fr/modeles/)
+Nous avons créé quelques modèles de formulaires communs pour vous aider à rédiger et à publier vos formulaires plus rapidement dans Formulaires GC.
 
 ## Formulaire de contact 
 [Prévisualiser](https://forms-formulaires.alpha.canada.ca/fr/id/cljhgi5gn00g8yq65sjzf5tsk) | [Télécharger](https://github.com/cds-snc/forms-templates/blob/main/contact.json)
