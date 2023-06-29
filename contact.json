@@ -1,0 +1,94 @@
+{
+  "titleEn": "Contact us",
+  "titleFr": "Nous joindre",
+  "introduction": {
+    "descriptionEn": "",
+    "descriptionFr": ""
+  },
+  "privacyPolicy": {
+    "descriptionEn": "We will treat your report in accordance with the *Access to Information Act* and the *Privacy Act*.",
+    "descriptionFr": "Nous traiterons votre rapport conformément à la *Loi sur l’accès à l’information* et à la *Loi sur la protection des renseignements personnels*."
+  },
+  "confirmation": {
+    "descriptionEn": "## Thank you for contacting us\n\n### What happens next?\n\nWe will do our best to get back to you within 5 business days.\n\n### Questions?\n\n[Contact us](https://www.canada.ca/en/contact.html)",
+    "descriptionFr": "## Merci de nous avoir contactés\n\n### Que se passe-t-il ensuite?\n\nNous ferons de notre mieux pour vous répondre dans les 5 jours ouvrables.\n\n### Des questions?\n\n[Nous contacter](https://www.canada.ca/fr/contact.html)",
+    "referrerUrlEn": "",
+    "referrerUrlFr": ""
+  },
+  "layout": [
+    1,
+    4,
+    5
+  ],
+  "elements": [
+    {
+      "id": 1,
+      "type": "textField",
+      "properties": {
+        "choices": [
+          {
+            "en": "",
+            "fr": ""
+          }
+        ],
+        "titleEn": "Full name",
+        "titleFr": "Nom complet",
+        "validation": {
+          "required": true
+        },
+        "subElements": [],
+        "autoComplete": "name",
+        "descriptionEn": "Include your first name and last name.",
+        "descriptionFr": "Indiquez votre prénom et nom de famille.",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    },
+    {
+      "id": 4,
+      "type": "textField",
+      "properties": {
+        "choices": [
+          {
+            "en": "",
+            "fr": ""
+          }
+        ],
+        "titleEn": "Email",
+        "titleFr": "Courriel",
+        "validation": {
+          "type": "email",
+          "required": true
+        },
+        "subElements": [],
+        "autoComplete": "email",
+        "descriptionEn": "Enter your email address.",
+        "descriptionFr": "Entrez votre adresse courriel.",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    },
+    {
+      "id": 5,
+      "type": "textArea",
+      "properties": {
+        "choices": [
+          {
+            "en": "",
+            "fr": ""
+          }
+        ],
+        "titleEn": "Message",
+        "titleFr": "Message",
+        "validation": {
+          "required": true
+        },
+        "subElements": [],
+        "descriptionEn": "How can we help?",
+        "descriptionFr": "Comment pouvons-nous vous aider?",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    }
+  ]
+}
