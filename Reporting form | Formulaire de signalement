@@ -1,1 +1,179 @@
-
+{
+  "titleEn": "Report a security vulnerability",
+  "titleFr": "Signaler une vulnérabilité de sécurité",
+  "introduction": {
+    "descriptionEn": "If you find a vulnerability, let us know so we can try to fix it as soon as possible.",
+    "descriptionFr": "Si vous trouvez une vulnérabilité, faites-le nous savoir afin que nous puissions essayer de la corriger le plus tôt possible."
+  },
+  "privacyPolicy": {
+    "descriptionEn": "We will treat your report in accordance with the *Access to Information Act* and the *Privacy Act*.",
+    "descriptionFr": "Nous traiterons votre rapport conformément à la *Loi sur l’accès à l’information* et à la *Loi sur la protection des renseignements personnels*.\n\n"
+  },
+  "confirmation": {
+    "descriptionEn": "## Thank you for submitting a vulnerability.\n\n### What happens next?\n\nIf you provided your email address, we commit to communicating with you as openly and as quickly as possible, when we can.\n\n### Questions?\n\n[Contact us](https://www.canada.ca/en/contact.html)",
+    "descriptionFr": "## Merci d'avoir soumis la vulnérabilité.\n\n### Que se passe-t-il ensuite?\n\nSi vous avez fourni une adresse courriel, nous nous engageons à communiquer avec vous le plus ouvertement et le plus rapidement possible, lorsque nous le pouvons.\n\n### Des questions?\n\n[Nous contacter](https://www.canada.ca/fr/contact.html)",
+    "referrerUrlEn": "",
+    "referrerUrlFr": ""
+  },
+  "layout": [
+    2,
+    3,
+    4,
+    7,
+    8,
+    5
+  ],
+  "elements": [
+    {
+      "id": 2,
+      "type": "textField",
+      "properties": {
+        "choices": [
+          {
+            "en": "",
+            "fr": ""
+          }
+        ],
+        "titleEn": "Product impacted",
+        "titleFr": "Produit concerné",
+        "validation": {
+          "required": true
+        },
+        "subElements": [],
+        "descriptionEn": "Specify the service, website, or application.",
+        "descriptionFr": "Indiquez le service, le site web ou l'application.",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    },
+    {
+      "id": 3,
+      "type": "textArea",
+      "properties": {
+        "choices": [
+          {
+            "en": "",
+            "fr": ""
+          }
+        ],
+        "titleEn": "Vulnerability",
+        "titleFr": "Vulnérabilité",
+        "validation": {
+          "required": true,
+          "maxLength": 250
+        },
+        "subElements": [],
+        "descriptionEn": "Describe where was it discovered and the potential impact of exploitation.",
+        "descriptionFr": "Décrivez à quel endroit la vulnérabilité a été repérée et l'incidence potentielle de son exploitation.",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    },
+    {
+      "id": 4,
+      "type": "textArea",
+      "properties": {
+        "choices": [
+          {
+            "en": "",
+            "fr": ""
+          }
+        ],
+        "titleEn": "Steps to reproduce",
+        "titleFr": "Étapes à suivre",
+        "validation": {
+          "required": true,
+          "maxLength": 1000
+        },
+        "subElements": [],
+        "descriptionEn": "Outline what's involved to help us identify the vulnerability.",
+        "descriptionFr": "Décrivez comment nous pouvons reproduire la vulnérabilité.",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    },
+    {
+      "id": 5,
+      "type": "textField",
+      "properties": {
+        "choices": [
+          {
+            "en": "",
+            "fr": ""
+          }
+        ],
+        "titleEn": "Email address",
+        "titleFr": "Adresse courriel",
+        "validation": {
+          "required": false
+        },
+        "subElements": [],
+        "autoComplete": "email",
+        "descriptionEn": "If you wish to stay anonymous, leave this field blank.",
+        "descriptionFr": "Si vous désirez rester anonyme, veuillez laisser ce champ vide.",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    },
+    {
+      "id": 7,
+      "type": "textField",
+      "properties": {
+        "choices": [
+          {
+            "en": "",
+            "fr": ""
+          }
+        ],
+        "titleEn": "Common Weakness Enumeration (CWE) code",
+        "titleFr": "Code « Common Weakness Enumeration (CWE) »",
+        "validation": {
+          "required": false
+        },
+        "subElements": [],
+        "descriptionEn": "Based on: https://cwe.mitre.org/data/definitions/699.html",
+        "descriptionFr": "Sur la base de : https://cwe.mitre.org/data/definitions/699.html",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    },
+    {
+      "id": 8,
+      "type": "radio",
+      "properties": {
+        "choices": [
+          {
+            "en": "None",
+            "fr": "Aucun"
+          },
+          {
+            "en": "Low",
+            "fr": "Faible"
+          },
+          {
+            "en": "Medium",
+            "fr": "Moyen"
+          },
+          {
+            "en": "High",
+            "fr": "Élevé"
+          },
+          {
+            "en": "Critical",
+            "fr": "Critique"
+          }
+        ],
+        "titleEn": "Issue severity",
+        "titleFr": "Degré de gravité du problème",
+        "validation": {
+          "required": false
+        },
+        "subElements": [],
+        "descriptionEn": "Estimate using this calculator: https://www.first.org/cvss/calculator/3.1",
+        "descriptionFr": "Estimez à l'aide de cette calculatrice : https://www.first.org/cvss/calculator/3.1",
+        "placeholderEn": "",
+        "placeholderFr": ""
+      }
+    }
+  ]
+}
