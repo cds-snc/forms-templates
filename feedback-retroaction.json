@@ -1,20 +1,4 @@
 {
-  "titleEn": "Accessibility feedback",
-  "titleFr": "Rétroaction sur l'accessibilité",
-  "introduction": {
-    "descriptionEn": "## Help us create a more accessible and barrier-free Canada\n\nProvide feedback on barriers you have experienced, our accessibility plan, or any matter related to accessibility.",
-    "descriptionFr": "## Aidez-nous à créer un Canada plus accessible et sans obstacles\n\nFournissez une rétroaction sur des obstacles que vous avez rencontrés, notre plan d'accessibilité ou toute autre question liée à l'accessibilité."
-  },
-  "privacyPolicy": {
-    "descriptionEn": "We will treat your report in accordance with the *Access to Information Act* and the *Privacy Act*.",
-    "descriptionFr": "Nous traiterons votre rapport conformément à la *Loi sur l’accès à l’information* et à la *Loi sur la protection des renseignements personnels*."
-  },
-  "confirmation": {
-    "descriptionEn": "## Thank you for your feedback\n\n### What happens next?\n\nWe will do our best to get back to you within 5 business days.\n\n### Questions?\n\n[Contact us](https://www.canada.ca/en/contact.html)",
-    "descriptionFr": "## Merci pour votre rétroaction\n\n### Que se passe-t-il ensuite?\n\nNous ferons de notre mieux pour vous répondre dans les 5 jours ouvrables.\n\n### Des questions?\n\n[Nous contacter](https://www.canada.ca/fr/contact.html)",
-    "referrerUrlEn": "",
-    "referrerUrlFr": ""
-  },
   "layout": [
     1,
     2,
@@ -25,6 +9,8 @@
     8,
     7
   ],
+  "titleEn": "Accessibility feedback",
+  "titleFr": "Rétroaction sur l'accessibilité",
   "elements": [
     {
       "id": 1,
@@ -84,32 +70,32 @@
       "properties": {
         "choices": [
           {
-            "en": "Physical environment (door knob, ramp, elevator, etc.)",
-            "fr": "Environnement physique (poignée de porte, rampe, ascenseur, etc.)"
-          },
-          {
             "en": "Employment (recruitment processes, etc.)",
             "fr": "Emploi (processus de recrutement, etc.)"
+          },
+          {
+            "en": "Built environment (door knob, ramp, elevator, etc.)",
+            "fr": "Environnement bâti (poignée de porte, rampe, ascenseur, etc.)"
           },
           {
             "en": "Technology (websites, software applications, etc.)",
             "fr": "Technologie (sites Web, applications logicielles, etc.)"
           },
           {
-            "en": "Attitude (biases, microagressions, related to mental health, etc.)",
-            "fr": "Attitude (préjugés, microagressions, aspects lié à la santé mentale, etc.)"
-          },
-          {
             "en": "Information and communication (forms, plain language, bilingualism, etc.)",
             "fr": "Information et communication (formulaires, langage simple, bilinguisme, etc.)"
+          },
+          {
+            "en": "Procurement (bidding for contracts, etc.)",
+            "fr": "Approvisionnement (appel d'offres pour des contrats, etc.)"
           },
           {
             "en": "Systemic exclusion (events, policies, procedures, etc.)",
             "fr": "Exclusion systémique (événements, politiques, procédures, etc.)"
           },
           {
-            "en": "Procurement (bidding for contracts, etc.)",
-            "fr": "Approvisionnement (appel d'offres pour des contrats, etc.)"
+            "en": "Attitude (biases, microagressions, related to mental health, etc.)",
+            "fr": "Attitude (préjugés, microagressions, aspects lié à la santé mentale, etc.)"
           },
           {
             "en": "Other",
@@ -243,5 +229,19 @@
         "placeholderFr": ""
       }
     }
-  ]
+  ],
+  "confirmation": {
+    "descriptionEn": "## Thank you for your feedback\n\n### What happens next?\n\nWe will do our best to get back to you within 5 business days.\n\n### Questions?\n\n[Contact us](https://www.canada.ca/en/contact.html)",
+    "descriptionFr": "## Merci pour votre rétroaction\n\n### Que se passe-t-il ensuite?\n\nNous ferons de notre mieux pour vous répondre dans les 5 jours ouvrables.\n\n### Des questions?\n\n[Nous contacter](https://www.canada.ca/fr/contact.html)",
+    "referrerUrlEn": "",
+    "referrerUrlFr": ""
+  },
+  "introduction": {
+    "descriptionEn": "### Help us create a more accessible and barrier-free Canada\n\nProvide feedback on barriers you have experienced, our published accessibility plan, or any matter related to accessibility.",
+    "descriptionFr": "### Aidez-nous à créer un Canada plus accessible et sans obstacles\n\nFournissez une rétroaction sur des obstacles que vous avez rencontrés, notre plan d'accessibilité publié ou toute autre question liée à l'accessibilité."
+  },
+  "privacyPolicy": {
+    "descriptionEn": " ",
+    "descriptionFr": " "
+  }
 }
